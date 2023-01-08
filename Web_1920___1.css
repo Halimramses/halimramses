@@ -1,0 +1,733 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 7692px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_1 {
+	fill: rgba(248,247,241,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 7692px;
+	left: 0px;
+	top: 0px;
+}
+#Halim_Ramses {
+	left: 550px;
+	top: 527px;
+	position: absolute;
+	overflow: visible;
+	width: 813px;
+	height: 144px;
+	text-align: left;
+	font-family: Conto ExBold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 125px;
+	color: rgba(0,0,0,1);
+}
+#While_studying_art_and_design_ {
+	left: 141px;
+	top: 6690px;
+	position: absolute;
+	overflow: hidden;
+	width: 1084px;
+	height: 302px;
+	line-height: 43px;
+	margin-top: -9px;
+	text-align: left;
+	font-family: Conto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#I_enjoy_working_closely_and_in {
+	left: 140px;
+	top: 3692px;
+	position: absolute;
+	overflow: hidden;
+	width: 1084px;
+	height: 668px;
+	line-height: 43px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Conto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 37px;
+	color: rgba(0,0,0,1);
+}
+#Halim_Ramses_is_a_Visual_Artis {
+	left: 140px;
+	top: 1130px;
+	position: absolute;
+	overflow: visible;
+	width: 1084px;
+	height: 359px;
+	line-height: 43px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Conto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 37px;
+	color: rgba(0,0,0,1);
+}
+#Halims_current_project_Momentu {
+	left: 140px;
+	top: 1519px;
+	position: absolute;
+	overflow: hidden;
+	width: 1084px;
+	height: 598px;
+	line-height: 43px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Conto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 37px;
+	color: rgba(0,0,0,1);
+}
+#DOTE_Cairo_Lab_exploring_birth {
+	left: 140.5px;
+	top: 4540px;
+	position: absolute;
+	overflow: visible;
+	width: 528px;
+	height: 657px;
+	line-height: 43px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Conto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 37px;
+	color: rgba(0,0,0,1);
+}
+#We_worked_through_conversation {
+	left: 697.5px;
+	top: 4540px;
+	position: absolute;
+	overflow: visible;
+	width: 528px;
+	height: 657px;
+	line-height: 43px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Conto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 37px;
+	color: rgba(0,0,0,1);
+}
+#n_022_Alexandrian_Tarantella_B {
+	left: 140px;
+	top: 5362px;
+	position: absolute;
+	overflow: visible;
+	width: 974px;
+	height: 117px;
+	line-height: 43px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Conto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 37px;
+	color: rgba(0,0,0,1);
+}
+#The_program_problematizes_the_ {
+	left: 140px;
+	top: 7018px;
+	position: absolute;
+	overflow: visible;
+	width: 1084px;
+	height: 264px;
+	line-height: 43px;
+	margin-top: -9px;
+	text-align: left;
+	font-family: Conto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Read_About_Re-imagining_Egypto {
+	left: 140px;
+	top: 7308px;
+	position: absolute;
+	overflow: hidden;
+	width: 469px;
+	height: 53px;
+	line-height: 43px;
+	margin-top: -9px;
+	text-align: left;
+	font-family: Conto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Press {
+	left: 606px;
+	top: 7308px;
+	position: absolute;
+	overflow: hidden;
+	width: 62px;
+	height: 27px;
+	line-height: 43px;
+	margin-top: -9px;
+	text-align: left;
+	font-family: Conto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#The_First_Round_discussed_them {
+	left: 1392px;
+	top: 6692px;
+	position: absolute;
+	overflow: visible;
+	width: 389px;
+	height: 108px;
+	line-height: 35px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Conto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Copyright__2022_Halim_Ramses {
+	left: 823px;
+	top: 7558px;
+	position: absolute;
+	overflow: visible;
+	width: 389px;
+	height: 38px;
+	line-height: 35px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Conto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#The_Second_Round_of_the_progra {
+	left: 1391px;
+	top: 6902px;
+	position: absolute;
+	overflow: visible;
+	width: 389px;
+	height: 180px;
+	line-height: 35px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Conto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Check_the_course_flow {
+	left: 1391px;
+	top: 6804px;
+	position: absolute;
+	overflow: visible;
+	width: 389px;
+	height: 37px;
+	line-height: 50px;
+	margin-top: -14px;
+	text-align: left;
+	font-family: Conto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(0,0,0,1);
+}
+#Check_the_course_flow_w {
+	left: 1391px;
+	top: 7086px;
+	position: absolute;
+	overflow: visible;
+	width: 389px;
+	height: 42px;
+	line-height: 50px;
+	margin-top: -14px;
+	text-align: left;
+	font-family: Conto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(0,0,0,1);
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 7px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1501.5px;
+	height: 7px;
+	left: 0px;
+	top: 2242.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_5 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 7px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5 {
+	overflow: visible;
+	position: absolute;
+	width: 1501.5px;
+	height: 7px;
+	left: 0px;
+	top: 3433px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_6 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 7px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_6 {
+	fill: transparent;
+	overflow: visible;
+	position: absolute;
+	width: 1501.5px;
+	height: 7px;
+	left: 0px;
+	top: 5622px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_3 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 7px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 1083px;
+	height: 7px;
+	left: 418.5px;
+	top: 4442px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_4 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 7px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 1083px;
+	height: 7px;
+	left: 418.5px;
+	top: 5279px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_7 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_7 {
+	overflow: visible;
+	position: absolute;
+	width: 1083px;
+	height: 2px;
+	left: 418.5px;
+	top: 7531.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Projects {
+	left: 140px;
+	top: 2269px;
+	position: absolute;
+	overflow: visible;
+	width: 317px;
+	height: 87px;
+	text-align: left;
+	font-family: Conto ExBold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 75px;
+	color: rgba(0,0,0,1);
+}
+#Cultural_Work___Curation {
+	left: 140px;
+	top: 3480px;
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	height: 165px;
+	line-height: 75px;
+	margin-top: -9.5px;
+	text-align: left;
+	font-family: Conto ExBold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 56px;
+	color: rgba(0,0,0,1);
+}
+#Re-imagining_Egyptology {
+	left: 139px;
+	top: 5660px;
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	height: 165px;
+	line-height: 75px;
+	margin-top: -15px;
+	text-align: left;
+	font-family: Conto ExBold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+#Component_8__1 {
+	position: absolute;
+	width: 542px;
+	height: 755px;
+	left: 681px;
+	top: 2434px;
+	overflow: visible;
+}
+#Mask_Group_1 {
+	position: absolute;
+	width: 542px;
+	height: 755px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Component_9__1 {
+	position: absolute;
+	width: 679px;
+	height: 819px;
+	left: 1241px;
+	top: 2356px;
+	overflow: visible;
+}
+#Mask_Group_2 {
+	position: absolute;
+	width: 679px;
+	height: 819px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Component_10__1 {
+	position: absolute;
+	width: 674px;
+	height: 826px;
+	left: 7px;
+	top: 2434px;
+	overflow: visible;
+}
+#Mask_Group_3 {
+	position: absolute;
+	width: 674px;
+	height: 826px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Component_5__1 {
+	position: absolute;
+	width: 18524.334px;
+	height: 824px;
+	left: 340.667px;
+	top: 5855px;
+	overflow: visible;
+}
+#Path_3 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 11px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_3 {
+	overflow: visible;
+	position: absolute;
+	width: 55.459px;
+	height: 84.392px;
+	left: 1195.333px;
+	top: 288.938px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_4 {
+	opacity: 0;
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 11px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_4 {
+	overflow: visible;
+	position: absolute;
+	width: 43.333px;
+	height: 76.124px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,289.938) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Mask_Group_4 {
+	position: absolute;
+	width: 933px;
+	height: 787px;
+	left: 150.333px;
+	top: 0px;
+	overflow: visible;
+}
+#The_Second_Round_with__Rawan_A {
+	left: 13989.333px;
+	top: 683px;
+	position: absolute;
+	overflow: visible;
+	width: 806px;
+	height: 141px;
+	line-height: 30px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Conto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#n_0ae11f5-fcf6-4643-9ad4-ccd06 {
+	position: absolute;
+	width: 899px;
+	height: 581px;
+	left: 1971.333px;
+	top: 75px;
+	overflow: visible;
+}
+#d9e2296e-0420-44fb-8016-5c8d4e {
+	position: absolute;
+	width: 899px;
+	height: 581px;
+	left: 3081.333px;
+	top: 75px;
+	overflow: visible;
+}
+#n_2871895-5962-488e-9ce4-8f3c3 {
+	position: absolute;
+	width: 899px;
+	height: 581px;
+	left: 4293.333px;
+	top: 75px;
+	overflow: visible;
+}
+#n_3fe9178-aba7-42a3-8437-4953f {
+	position: absolute;
+	width: 899px;
+	height: 581px;
+	left: 5505.333px;
+	top: 75px;
+	overflow: visible;
+}
+#n_551c59e-f1e6-40db-b155-35863 {
+	position: absolute;
+	width: 899px;
+	height: 581px;
+	left: 6717.333px;
+	top: 75px;
+	overflow: visible;
+}
+#b2943fa5-f7dc-4128-a1b8-2bfc2d {
+	position: absolute;
+	width: 899px;
+	height: 581px;
+	left: 7929.333px;
+	top: 75px;
+	overflow: visible;
+}
+#n_a13ede2-12c4-4bf2-b586-16bae {
+	position: absolute;
+	width: 899px;
+	height: 581px;
+	left: 9141.333px;
+	top: 75px;
+	overflow: visible;
+}
+#n_83722ac-42d6-4402-90f2-4b6b3 {
+	position: absolute;
+	width: 899px;
+	height: 581px;
+	left: 10353.333px;
+	top: 75px;
+	overflow: visible;
+}
+#n_1ce69ec-9f50-4f52-8c18-f963c {
+	position: absolute;
+	width: 899px;
+	height: 581px;
+	left: 11565.333px;
+	top: 75px;
+	overflow: visible;
+}
+#n_567ac4a-2b06-46ea-8c7e-54dd5 {
+	position: absolute;
+	width: 899px;
+	height: 581px;
+	left: 12777.333px;
+	top: 75px;
+	overflow: visible;
+}
+#d62280c8-faa4-497b-8c61-275d06 {
+	position: absolute;
+	width: 899px;
+	height: 581px;
+	left: 13989.333px;
+	top: 75px;
+	overflow: visible;
+}
+#n_ba04cfe-8c27-4038-8cf4-7c021 {
+	position: absolute;
+	width: 899px;
+	height: 581px;
+	left: 15201.333px;
+	top: 75px;
+	overflow: visible;
+}
+#f480527a-6784-4ad9-a262-d4cb07 {
+	position: absolute;
+	width: 899px;
+	height: 581px;
+	left: 16413.333px;
+	top: 75px;
+	overflow: visible;
+}
+#n_d2a98f6-0278-4b39-8606-7f1b9 {
+	position: absolute;
+	width: 899px;
+	height: 581px;
+	left: 17625.333px;
+	top: 75px;
+	overflow: visible;
+}
+#Rectangle_2 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 1926px;
+	height: 99px;
+	left: -6px;
+	top: 0px;
+}
+#Projects_bw {
+	left: 1252px;
+	top: 22px;
+	position: absolute;
+	overflow: visible;
+	width: 111px;
+	height: 34px;
+	text-align: left;
+	font-family: Conto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Cultural_work__Curation {
+	left: 1391px;
+	top: 22px;
+	position: absolute;
+	overflow: visible;
+	width: 174px;
+	height: 66px;
+	line-height: 32px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Conto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Re-imagining_Egyptology_ {
+	left: 1593px;
+	top: 22px;
+	position: absolute;
+	overflow: hidden;
+	width: 195px;
+	height: 82px;
+	line-height: 32px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Conto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
